@@ -1,0 +1,4 @@
+User: Leanne Graham, Completed Percentage: 55.00000000000001%
+User: Chelsey Dietrich, Completed Percentage: 60.0%
+User: Clementina DuBuque, Completed Percentage: 60.0%
+All users from FanCode city have more than 50% tasks completed.
