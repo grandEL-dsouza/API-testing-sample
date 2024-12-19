@@ -1,0 +1,15 @@
+Task : To Automate the Below Scenario.
+Scenario :- All the users of City `FanCode` should have more than half of their todos task completed.
+Given User has the todo tasks
+And User belongs to the city FanCode
+Then User Completed task percentage should be greater than 50%
+
+Note :-
+- Fancode City can be identified by lat between ( -40 to 5) and long between ( 5 to 100) in users api
+Resources(APIs) :- http://jsonplaceholder.typicode.com/
+/todos
+/posts
+/comments
+/albums
+/photos
+/users
