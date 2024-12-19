@@ -17,6 +17,7 @@ python3 -m pip install --user requests
 
 
 3. Run the test by clicking the run button through the IDE or use the following command:
+   
 python3 solution.py
 
 Once done the test will execute and output will be printed on the console / terminal.
